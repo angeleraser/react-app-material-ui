@@ -1,0 +1,4 @@
+.Post-card img {
+  object-fit: cover;
+  height: 300px;
+}

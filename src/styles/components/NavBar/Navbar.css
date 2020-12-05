@@ -1,0 +1,10 @@
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between !important;
+  max-width: 480px;
+}
+
+.nav-list li button svg {
+  margin-left: 6px;
+}
